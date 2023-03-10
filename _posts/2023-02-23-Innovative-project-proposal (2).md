@@ -20,11 +20,11 @@ This homework is to propose an innovative project and describe the key features,
   - Draw a System Block Diagram
 
 ---
-## 家用料理機器人
+## 機器守衛
 
 ### 應用功能說明
-1. 操作廚具：咖啡機＋果汁機＋烤麵包機＋微波爐+烤箱+氣炸鍋
-2. 存取冰箱：辨識食物, 存放食材，或取出食材, 送至廚具
+1. 
+2. 
 
 ### 設計考量與相關技術
 **系統設計考量：**<br>
