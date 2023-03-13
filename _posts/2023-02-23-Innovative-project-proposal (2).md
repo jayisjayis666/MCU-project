@@ -20,23 +20,23 @@ This homework is to propose an innovative project and describe the key features,
   - Draw a System Block Diagram
 
 ---
-## 機器守衛
+## 機器保全
 
 ### 應用功能說明
-1. 
-2. 
+1.可應用於公司行號或一般宅之大門中, 利用攝影機來辨識所有來客的身分造就安全的住所。
+2. 能載入一些武術招式來制服不肖人士的闖入
 
 ### 設計考量與相關技術
 **系統設計考量：**<br>
-1. 操作方式:垂直升降式手臂 or 懸吊式手臂
-2. 移動方式:兩輪 or 滑軌懸吊
+1. 人臉辨識:FH series camera & 1s series Server
+2. 移動方式:履袋
 3. 供電方式:鋰電池
-4. 聯網方式:WiFi或BT to 手機
+4. 聯網方式:5G&聲控
 
 **所需相關技術：**
-1. 滑軌式機器手臂 ＆ 軟式夾具
-2. 食物辨識分類：Jetson-Nano + IMX219
-3. 電子鼻：氣味感測與辨識 MQ2
+1. 區域掃描:OS32C安全雷射掃描
+2. 執行中樞:NX102機械自動化控制器
+3. 遇到搶匪闖入用到的機械手臂:TM協作機器人
 
 ### 系統方塊圖
 ![](https://github.com/jayisjayis666/MCU-project/blob/main/images/UART-DB9-pinout.png?raw=true)
