@@ -39,7 +39,7 @@ This homework is to propose an innovative project and describe the key features,
 3. 遇到搶匪闖入用到的機械手臂:TM協作機器人
 
 ### 系統方塊圖
-![](https://github.com/jayisjayis666/MCU-project/blob/main/images/112.jpg?raw=true)
+![](https://github.com/jayisjayis666/MCU-project/blob/main/images/666.jpg?raw=true)
 
 ---
 ## Market Analysis (市場分析)
